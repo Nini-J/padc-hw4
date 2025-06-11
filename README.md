@@ -79,7 +79,5 @@ Then run:
 ```bash
 python plot_data.py
 ```
-
 This shows a graph of temperature and solar irradiation over time.
-
-![Description](./Figure_1/chart.png)
+![Figure 1](./Figure_1.png)
