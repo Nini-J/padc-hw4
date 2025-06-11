@@ -49,7 +49,6 @@ Run inside cqlsh:
 DESCRIBE KEYSPACES;
 USE sensor_data;
 DESCRIBE TABLE environmental_readings;
-SELECT * FROM environmental_readings;
 ```
 
 ### 5. Insert Sample Data with Python
