@@ -1,19 +1,19 @@
 # Homework 4 - Distributed and Parallel Computing
 
-## 👨‍🏫 Instructor:
+##  Instructor:
 Prof. Dr. Erekle Magradze
 
-## 📅 Date:
+##  Date:
 - Assignment Date: June 6, 2025
 - Due Date: June 13, 2025
 
 
-## 📌 What This Project Does
+## What This Project Does
 
 This homework sets up **Apache Cassandra** using **Docker**, creates a database to store environmental sensor data, and uses **Python** to insert and plot sample data.
 
 
-## 🔧 Setup Steps (Simple Version)
+## Setup Steps 
 
 ### 1. Clone the GitHub repo to your computer
 
