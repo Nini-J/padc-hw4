@@ -82,4 +82,4 @@ python plot_data.py
 
 This shows a graph of temperature and solar irradiation over time.
 
-![Screenshot](./assets/Figure_1.png)
+![Description](./Figure_1/.png)
