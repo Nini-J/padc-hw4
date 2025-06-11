@@ -54,7 +54,7 @@ SELECT * FROM environmental_readings;
 
 ### 5. Insert Sample Data with Python
 
-![Screenshot 1](./images/screenshot_2025_06_11_140525.png)
+![Screenshot 1](./2.png)
 
 Install the Cassandra Python driver:
 
@@ -70,7 +70,7 @@ python insert_data.py
 
 It adds 10 fake sensor records to Cassandra.
 
-![Screenshot 2](./images/screenshot_2025_06_11_135305.png)
+![Screenshot 1](./1.png)
 
 ### 6. Plot Temperature and Solar Irradiation
 Install matplotlib:
